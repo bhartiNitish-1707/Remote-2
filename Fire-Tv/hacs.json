@@ -3,5 +3,6 @@
   "content_in_root": false,
   "filename": "dist/universal-remote-card.min.js",
   "homeassistant": "2024.6.0",
-  "render_readme": true
+  "render_readme": true,
+  "category": "plugin"
 }
